@@ -1,2 +1,3 @@
 # hattrick
-this is a student project 
+this is a student project
+licence MIT
